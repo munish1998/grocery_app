@@ -1,0 +1,1 @@
+ C:\\Users\\mayank\ gupta\\OneDrive\\Desktop\\munish\\orange_app\\grocery_app\\.dart_tool\\flutter_build\\3c3e569a5a4a7d330c096a606b122a46\\native_assets.yaml: 

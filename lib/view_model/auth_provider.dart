@@ -27,7 +27,6 @@ class AuthProvider1 extends ChangeNotifier {
     forgetPassword.dispose();
     firstName.dispose();
     lastName.dispose();
-
   }
 
   bool _loading = false;
